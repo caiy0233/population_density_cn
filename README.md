@@ -2,6 +2,7 @@
 This repository provides the spatial pattern of population distribution and the evolution of population agglomeration in more than 300 cities in China over the past 20 years. population density, employment density, GDP per capita of over 300 cities in China have been calculated and visualized to explore the relationship between population density and economic growth.
 
 The full pdf vesion of paper is also included in the respository.
+![file](https://github.com/caiy0233/population_density_cn/blob/main/%E4%BA%BA%E5%8F%A3%E5%AF%86%E5%BA%A6%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%BD%9C%E5%9C%A8%E5%A2%9E%E9%95%BF.pdf)
 
 ## 2010年337个中国地级市人口密度（人/平方公里)
 ![image](https://github.com/caiy0233/population_density_cn/blob/main/2010%E4%B8%AD%E5%9B%BD%E5%9C%B0%E7%BA%A7%E5%B8%82%E4%BA%BA%E5%8F%A3%E5%AF%86%E5%BA%A6.png)
